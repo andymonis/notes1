@@ -1,0 +1,25 @@
+{
+    "name": "test1",
+    "version": "1.0.0",
+    "description": "Notes is an example app, which demonstrates the rapid build / deploy (Phase1)",
+    "main": "index.js",
+    "app": {
+        "manifest": {
+            "service_worker": "network_or_cache"
+        },
+        "frameworks": [
+        ]
+    },
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/andymonis/test.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/andymonis/test/issues"
+    },
+    "homepage": "https://github.com/andymonis/test#readme"
+}
